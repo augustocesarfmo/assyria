@@ -1,6 +1,6 @@
 # ASSYRIA
 
-Sistema web de processamento de dados para construção de análises espaciais
+Sistema web de processamento de dados para construção de análises espaciais.
 
 ## 👀 Demo
 
