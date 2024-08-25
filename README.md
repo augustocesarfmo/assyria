@@ -2,7 +2,9 @@
 
 Sistema web de processamento de dados para construção de análises espaciais
 
-[TOC]
+## 👀 Demo
+
+Para experimentar o sistema em ação, acesse a versão de demonstração [clicando aqui](https://spatialworkspace.netlify.app/).
 
 ## 📌 Módulos
 
