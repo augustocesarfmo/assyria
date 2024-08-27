@@ -10,17 +10,6 @@ Para experimentar o sistema em ação, acesse a versão de demonstração [clica
 
 O sistema está dividido em 10 módulos, são eles:
 
-    - [Map](#map)
-    - [Example of Distance Between Two Points](#example-of-distance-between-two-points)
-    - [Example of Fractal Dimension Calculation](#example-of-fractal-dimension-calculation)
-    - [Massive Fractal Dimension Calculation](#massive-fractal-dimension-calculation)
-    - [Associate Regions](#associate-regions)
-    - [Search Regions](#search-regions)
-    - [Associates CRS with City](#associates-crs-with-city)
-    - [Example of Address Geocoding](#example-of-address-geocoding)
-    - [Bulk Geocoding of Address](#bulk-geocoding-of-address)
-    - [Number of Cases Counter](#number-of-cases-counter)
-
 ### Map
 
 Nesta interface é possível importar dados georreferenciados de um arquivo .xslx para visualização dinâmica dos eventos (lat & lng) no mapa.
