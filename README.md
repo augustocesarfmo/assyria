@@ -95,7 +95,7 @@ Na sua linha de comando execute:
 
 ```bash
 # Clonando este repositório
-$ git clone https://augustocesarfmo@bitbucket.org/augustocesarfmo/thesis-web.git
+$ git clone https://github.com/augustocesarfmo/assyria.git
 
 # Acessando o repositório
 $ cd thesis-web
